@@ -17,10 +17,10 @@ Due to the memory limitations we were only able to create two games that used th
 
 ## Real time operating system (RTOS)
 ### In this course we gradually created our own RTOS which consists of the following: 
- - Scheduler
+- Scheduler
   - Services threads based on priority
   -  Able to service periodic and aperiodic threads 
- - Interprocess commuincations (IPC) 
+- Interprocess commuincations (IPC) 
   - Used FIFOs to have threads exchange data sufficiently
  Link: [RTOS](https://github.com/Kpakizeh/Embedded-Real-Time-Applications/tree/master/RTOS)
  
