@@ -7,7 +7,9 @@ This project served as a final project for Microprocessors applications II where
 
 ## Other backpacks: 
  - [CCS3100 BOOSTER PACK CC3100 WI-FI & IOT](https://www.digikey.com/product-detail/en/texas-instruments/CC3100BOOST/296-37769-ND/4862810?utm_adgroup=RF%2FIF%20and%20RFID&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Texas%20Instruments_0296_Co-op&utm_term=&utm_content=RF%2FIF%20and%20RFID&gclid=CjwKCAjw8df2BRA3EiwAvfZWaJutkkvgnPuYSjb0I8DprFYE4M8eggaCiC-Tff1q4PmoknfxObZhlxoCDgAQAvD_BwE) was used in this project to allow the development boards to commuincate via UDP or TCP. 
- - Custom PCB created by UF HKN 
+![](Pics/Back_Packs.jpeg)
+
+- Custom PCB created by UF HKN 
 
 ![](Pics/Development_Board.jpeg)
 ###Hardware limitations:
