@@ -3,7 +3,7 @@ This project served as a final project for Microprocessors applications II where
 
 ## Hardware used: 
 
-- Devlopement board used : [MSP432](https://www.ti.com/product/MSP432P401R?  utm_source=google&utm_medium=cpc&utm_campaign=epd-con-null-prodfolderdynamic-cpc-pf-google-wwe&utm_content=prodfolddynamic&ds_k=DYNAMIC+SEARCH+ADS&DCM=yes&gclid=CjwKCAjwnK36BRBVEiwAsMT8WNJew8yfEwyencFXfZz1lk2-7xudpZduXpiaQ3Wu68337mU4iZ0bFhoCgBIQAvD_BwE&gclsrc=aw.ds).
+- Devlopement board used: [MSP432](https://www.ti.com/product/MSP432P401R?      utm_source=google&utm_medium=cpc&utm_campaign=epd-con-null-prodfolderdynamic-cpc-pf-google-wwe&utm_content=prodfolddynamic&ds_k=DYNAMIC+SEARCH+ADS&DCM=yes&gclid=CjwKCAjwnK36BRBVEiwAsMT8WNJew8yfEwyencFXfZz1lk2-7xudpZduXpiaQ3Wu68337mU4iZ0bFhoCgBIQAvD_BwE&gclsrc=aw.ds).
 
 
 ![](Pics/Development_Board.jpeg)
