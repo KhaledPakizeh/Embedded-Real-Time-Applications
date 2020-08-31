@@ -23,6 +23,8 @@ Due to the memory limitations we were only able to create two games that used th
 - Interprocess commuincations (IPC) 
   - Used FIFOs to have threads exchange data sufficiently
  Link: [RTOS](https://github.com/Kpakizeh/Embedded-Real-Time-Applications/tree/master/RTOS)
+- Semaphores: 
+  - Used semaphores as a (mutex) locks and for suffiecent CPU time usage (efficiency).
  
 ## Games
 ### **Donkey Kong Jr (Developed by Khaled) - Solo play** 
