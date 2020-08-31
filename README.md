@@ -24,4 +24,5 @@ The point of this game is for Jr to resuce his father from mario by getting the 
 **Pong (Developed by Sobhi and Khaled) - Multi-player**
 ![](Pics/Pong_Wi-Fi.jpeg)
 
+
 This games uses the [CCS3100 BOOSTER PACK CC3100 WI-FI & IOT](https://www.digikey.com/product-detail/en/texas-instruments/CC3100BOOST/296-37769-ND/4862810?utm_adgroup=RF%2FIF%20and%20RFID&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Texas%20Instruments_0296_Co-op&utm_term=&utm_content=RF%2FIF%20and%20RFID&gclid=CjwKCAjw8df2BRA3EiwAvfZWaJutkkvgnPuYSjb0I8DprFYE4M8eggaCiC-Tff1q4PmoknfxObZhlxoCDgAQAvD_BwE) to be played over Wi-Fi. The point of this game is to score 15 points against the other player to dominate the round. 
