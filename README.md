@@ -17,11 +17,11 @@ Due to the memory limitations we were only able to create two games that used th
 
 
 ## Games
-**Donkey Kong Jr (Developed by Khaled) - Solo play** 
+### **Donkey Kong Jr (Developed by Khaled) - Solo play** 
 ![](Pics/Donkey_Kong.jpeg)
 The point of this game is for Jr to resuce his father from mario by getting the key with out getting hit by the flying dragons. 
 
-**Pong (Developed by Sobhi and Khaled) - Multi-player**
+### **Pong (Developed by Sobhi and Khaled) - Multi-player**
 ![](Pics/Pong_Wi-Fi.jpeg)
 
 
