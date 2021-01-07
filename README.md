@@ -1,5 +1,5 @@
 # Embedded-Real-Time-Applications:
-This project served as a final project for Microprocessors applications II where student where paried and tasked with coming up with a final project for the class. The games use an Real time operating system (RTOS) created throughout the course. Lunchpad: TI MSP432 (ARM Cortex M4) Backpacks: TI CC3100 Wi-Fi® Network Processor
+This project served as a final project for Microprocessors applications II where student where paried and tasked with coming up with a final project for the class. The games use an Real time operating system (RTOS) created throughout the course. Launchpad: TI MSP432 (ARM Cortex M4) Backpacks: TI CC3100 Wi-Fi® Network Processor
 
 ## Hardware used: 
 
